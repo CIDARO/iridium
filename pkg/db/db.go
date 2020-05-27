@@ -6,7 +6,6 @@ import (
 )
 
 func CreateDatabase(databasePath string) (*badger.DB, error) {
-
 	_, err := validation.ValidatePath(databasePath)
 	if err != nil {
 		return nil, err
