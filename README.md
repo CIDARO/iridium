@@ -4,7 +4,7 @@
   <br/>
   <br/>
   <p>
-    Open Source Reverse HTTP Proxy.
+    Open Source Reverse HTTP Metrics Proxy.
   </p>
   <p>
     version 0.1.0-alpha
