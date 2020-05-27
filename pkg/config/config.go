@@ -15,6 +15,7 @@ type Config struct {
 		Port string `yaml:"port"`
 	}
 	Target url.URL
+	DbPath string `yaml:"db_path"`
 }
 
 func GetConfig(configPath string, target string) (*Config, error) {
