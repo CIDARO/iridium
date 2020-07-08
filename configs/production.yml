@@ -1,0 +1,11 @@
+server:
+    host: "127.0.0.1"
+    port: "8080"
+backends:
+    - "http://127.0.0.1:8081"
+    - "http://127.0.0.1:8082"
+    - "http://127.0.0.1:8083"
+    - "http://127.0.0.1:8084"
+max_attempts: 3
+max_retries: 3
+metrics: false

@@ -4,7 +4,7 @@
   <br/>
   <br/>
   <p>
-    Open Source Reverse HTTP Metrics Proxy.
+    Open Source Load Balancer.
   </p>
   <p>
     version 0.1.0-alpha
@@ -29,7 +29,7 @@
 
 ## Description
 
-**Iridium** is an Open Source Reverse HTTP Proxy that stores metrics written in Go.
+**Iridium** is an Open Source Load Balancer that stores backends metrics written in Golang.
 
 ---
 
@@ -49,6 +49,6 @@ WIP.
 
 We welcome community contributions!
 
-Please check out our <a href="https://github.com/CIDARO/cobalt/issues">open issues</a> to get started.
+Please check out our <a href="https://github.com/CIDARO/iridium/issues">open issues</a> to get started.
 
 If you discover something that could potentially impact security, please notify us immediately by sending an e-mail at <a href="mailto:support@cidaro.com">support@cidaro.com</a>. We'll get in touch with you as fast as we can!
